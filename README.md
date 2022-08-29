@@ -1,2 +1,2 @@
-# hello-world
-Hello World for Lab 1
+# oh-hello
+Oh Hello! for Lab 1
